@@ -59,6 +59,13 @@
             object-fit: cover;
         }
 
+        article:nth-child(2n) {
+            background: #82c2feb4; /* Цвет фона */
+           } 
+
+        h1.article:before {
+            content: "New"; /* Добавляем перед элементом списка New */
+        }
         footer {
             padding-top: 20px;
             padding-bottom: 60px;
