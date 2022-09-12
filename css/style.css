@@ -63,9 +63,11 @@
             background: #82c2feb4; /* Цвет фона */
            } 
 
-        h1.article:before {
-            content: "New"; /* Добавляем перед элементом списка New */
+        .h2::before {
+            content: "New."; /* Добавляем перед элементом списка New */
+            font-style: italic;
         }
+
         footer {
             padding-top: 20px;
             padding-bottom: 60px;
