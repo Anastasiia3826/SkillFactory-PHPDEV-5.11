@@ -1,0 +1,5 @@
+https://validator.w3.org/nu/#textarea
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed.
+From line 15, column 10; to line 15, column 31
+↩         <section class="news">↩     
